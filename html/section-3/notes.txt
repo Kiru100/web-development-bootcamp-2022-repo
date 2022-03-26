@@ -1,1 +1,5 @@
 HTML - HyperText Markup Language
+-In order to write HTML, Elements that all browser can recognize are used 
+eg. <p>, <h1>, <img>, <form>
+
+
