@@ -1,1 +1,3 @@
 https://developer.mozilla.org/en-US/ - Documenting web technologies, including CSS, HTML, and JavaScript
+https://dev.w3.org/html5/html-author/charref
+https://emmet.io/ - shortcut for html and css
