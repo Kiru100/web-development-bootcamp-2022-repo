@@ -8,3 +8,33 @@ eg. <p>, <h1>, <img>, <form>
     <li></li>
     <li></li>
 </ul>
+
+<a>
+
+Block and Inline
+Generic Container
+<div> The Content Division Element (Block)
+<span> Inline
+
+<hr>
+
+<br>
+-good in making line break that's useful for writing poem or an address
+
+html entities
+starts with & and ends with ;
+https://dev.w3.org/html5/html-author/charref
+
+Semantic Markup - meaningful markup
+
+Intead of div, anything can be use
+<section>
+<article>
+<nav>
+<main>
+<header>
+<footer>
+<aside>
+<summary>
+<details>
+
