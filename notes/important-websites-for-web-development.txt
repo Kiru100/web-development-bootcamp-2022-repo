@@ -2,3 +2,4 @@ https://developer.mozilla.org/en-US/ - Documenting web technologies, including C
 https://dev.w3.org/html5/html-author/charref
 https://emmet.io/ - shortcut for html and css
 https://htmlcolorcodes.com/ for choosing color pallete
+https://www.cssfontstack.com/ for css collection of web safe CSS font stacks
