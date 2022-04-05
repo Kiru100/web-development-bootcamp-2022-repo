@@ -96,7 +96,7 @@ h2::selection{
 }
 
 p::after{
-    content: " <       sheeesh";
+    content: " < sheeesh";
     color:#9b2226
 }
 p::before{
@@ -106,6 +106,9 @@ p::before{
 
 button:hover{
     background-color:#63bcdf;
+}
 
+button{
+    background-color: #8d99ae !important;
 }
 
