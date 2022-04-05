@@ -80,5 +80,32 @@ background-color: #ecc8b5;;
 .post*/
 .post:nth-child(3n){
     background-color: #ecc8b5;;
-}    
+}   
+
+h2::first-letter{
+    font-size: 30px;
+}
+
+p::first-line{
+    color: #005f73;
+}
+
+h2::selection{
+    background-color: #001219;
+    color:white
+}
+
+p::after{
+    content: " <       sheeesh";
+    color:#9b2226
+}
+p::before{
+    content: "sheees >";
+    color:#9b2226
+}
+
+button:hover{
+    background-color:#63bcdf;
+
+}
 
