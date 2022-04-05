@@ -75,7 +75,9 @@ input[type="password"]{
 background-color: #ecc8b5;;
 }
 */
-/*  3n signify that .post class has the element in every 3rd .post*/
+
+/*  3n signify that .post class has the element in every 3rd 
+.post*/
 .post:nth-child(3n){
     background-color: #ecc8b5;;
 }    
