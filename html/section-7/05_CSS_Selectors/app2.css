@@ -4,7 +4,7 @@
 } */
 
 body{
-    background-color:#fbf8cc ;
+    background-color:#f0efeb ;
 }
 
 /* element selector*/
@@ -69,4 +69,14 @@ input[type="password"]{
     background-color: #001219;
     color:white;
 }
+
+/* changes the 3rd .post class 
+.post:nth-child(3){
+background-color: #ecc8b5;;
+}
+*/
+/*  3n signify that .post class has the element in every 3rd .post*/
+.post:nth-child(3n){
+    background-color: #ecc8b5;;
+}    
 
