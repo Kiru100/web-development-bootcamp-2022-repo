@@ -33,10 +33,11 @@ span{
     color: #0a9396;
 }
 .post a{
-    color:#9b2226
+    color:#9b2226;
+    text-decoration:none;
 }
 nav a{
-    color: #b5179e;
+    color: #a08f9d;
 }
 
 input + button{
@@ -46,14 +47,26 @@ h2 + button{
     font-size: 30px;
     background-color:#fde4cf;
 }
-span + h2 {
-  background-color: #560bad;   
-}
+
 nav>a{
     color:green
 }
 
 input[type="password"]{
     color:saddlebrown
+}
+
+
+.post button:hover{
+    background:#005f73;
+    color: #001219;
+}
+.post a:hover{
+    text-decoration: underline;   
+}
+
+.post button:active{
+    background-color: #001219;
+    color:white;
 }
 
