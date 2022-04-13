@@ -17,6 +17,7 @@ h1{
    border-style: solid;
    border-color: black;
    box-sizing: border-box; 
+   padding-right: 20;
    
 }
 #two{
@@ -33,4 +34,7 @@ h1{
     box-sizing:border-box;
     border-right: dotted;
     border-radius: 50%;
+}
+button{
+    padding:10px 20px 30px 40px;
 }
