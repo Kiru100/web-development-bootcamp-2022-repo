@@ -40,3 +40,7 @@ button{
     border-radius: .5em;
     border:none;
 }
+
+ul{
+    font-size:1rem;
+}
