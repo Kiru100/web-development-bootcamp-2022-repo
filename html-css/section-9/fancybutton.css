@@ -8,9 +8,24 @@ body{
 }
 
 button{
+   
     background: none;
     color:#ffb703;
     border:2px solid;
     padding:1em 2em;
     font-size:1em;
+    transition: .2s ease-in;
+}
+
+button:hover{
+    border-color: #f1ff5c;
+    color:#f1ff5c ;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform:translateY(-0.25em);
+    cursor:pointer;
+}
+
+button:active{
+    background-color: #f1ff5c;
+    color:#023047;
 }
