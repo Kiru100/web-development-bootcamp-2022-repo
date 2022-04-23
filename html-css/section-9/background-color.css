@@ -1,0 +1,22 @@
+body{
+    background: url("https://wallpaperaccess.com/full/2825704.gif") no-repeat center/cover;
+    overflow:hidden;
+}
+
+section{
+    width: 80%;
+    height:800px;
+/* background-color:rgb(53, 77, 7); */
+    margin: 0 auto;
+    /* background-image: url("https://images.unsplash.com/photo-1640015777636-e9f8b50e78b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+    background-size: cover;
+    background-position: top; */
+    /* background: no-repeat center/40% url("https://images.unsplash.com/photo-1649739696994-3671096a96f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80") ,coral ; */
+}
+
+h1{
+    font-size: 100px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: rgba(1,1,1,0.96);
+}
