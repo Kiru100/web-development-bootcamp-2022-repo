@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.item{
+    width: 100px;
+    height: 100px;
+    background:#1d3557;
+    margin: 10px;
+    color:#a8dadc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container{
+    display: flex;
+    background-color: #f1faee;
+    /* Always on the main Axis */
+    /* justify-content: end; */
+    /* Always on the cross Axis */
+    /* align-items: flex-start; */
+    
+    
+}
+
+/*  
+.item:nth-last-of-type(1){
+    order:2;
+}
+ 
+.item:nth-last-of-type(2){
+    order:1;
+}
+
+
+.item:nth-last-of-type(3){
+    order:3;
+}  */
