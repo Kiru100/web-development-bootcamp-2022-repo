@@ -3,6 +3,6 @@ https://dev.w3.org/html5/html-author/charref
 https://emmet.io/ - shortcut for html and css
 https://htmlcolorcodes.com/ for choosing color pallete
 https://www.cssfontstack.com/ for css collection of web safe CSS font stacks
-
 https://easings.net/# - tools for transition in css use for changing cubic-bezier() timing fuction 
 https://fonts.google.com/ free font from google
+https://getbootstrap.com/docs/4.5/getting-started/introduction/ bootstrap 
